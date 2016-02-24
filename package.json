@@ -1,0 +1,30 @@
+{
+  "name": "node-registry-winston",
+  "description": "Winston Logger module for Node Registry library",
+  "homepage": "http://vladaspasic.github.io/node-registry-winston",
+  "version": "0.0.1",
+  "directories": {
+    "test": "tests"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/vladaspasic/node-registry-winston.git"
+  },
+  "scripts": {
+    "test": "echo 'no tests atm'"
+  },
+  "engines": {
+    "node": ">= 4.0.0"
+  },
+  "license": "MIT",
+  "keywords": [
+    "winston",
+    "logger",
+    "node-registry-plugin"
+  ],
+  "author": "Vladimir Spasic <vladimir.spasic.86@gmail.com>",
+  "dependencies": {
+    "debug": "^2.2.0",
+    "winston": "^2.1.1"
+  }
+}
